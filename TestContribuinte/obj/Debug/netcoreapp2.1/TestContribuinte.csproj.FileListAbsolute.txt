@@ -1,0 +1,17 @@
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\TestContribuinte.deps.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\TestContribuinte.runtimeconfig.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\TestContribuinte.runtimeconfig.dev.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\TestContribuinte.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\TestContribuinte.pdb
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.csprojAssemblyReference.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.AssemblyInfoInputs.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.AssemblyInfo.cs
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.pdb
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\ContribuinteApi.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\bin\Debug\netcoreapp2.1\ContribuinteApi.pdb
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\TestContribuinte\obj\Debug\netcoreapp2.1\TestContribuinte.csproj.CopyComplete

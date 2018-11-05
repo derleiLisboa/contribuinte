@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contribuintes</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Contribuintes</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>NOME</th>
+                    <th>CPF</th>
+                    <th>Nº DE DEPENDENTES</th>
+                    <th>RENDA BRUTA MENSAL</th>
+                </tr>
+            </thead>
+            <tbody id="contribuintes"></tbody>
+        </table>
+
+        <hr />
+        <h3>Novo Contribuinte:</h3>
+
+        <form action="javascript:void(0);" method="POST" onsubmit="addContribuinte()">
+            <label for="nome">Nome:</label>
+            <input required type="text" id="nome" placeholder="Nome do contribuinte" />
+            <br />
+            <label for="cpf">CPF:</label>
+            <input required type="text" id="cpf" class="cpf" placeholder="000.000.000-00" />
+            <br />
+            <label for="dependentes">Nº de dependentes:</label>
+            <input required type="number" id="dependentes" placeholder="0" />
+            <br />
+            <label for="renda">Renda bruta mensal:</label>
+            <input required type="text" class="money" id="renda" placeholder="Ex.: 1500.00" />
+            <br />
+            <input type="submit" value="Adicionar" />
+        </form>
+        <hr />
+        <h3>IR dos Contribuintes</h3>
+        <form action="javascript:void(0);" method="POST" onsubmit="getContribuintesIRCalculado()">
+            <label>Para calcular o IR dos contribuíntes informe o valor do Salário Mínimo:</label>
+            <input required type="text" class="money" id="salario_minimo" placeholder="Ex.: 900.00" />
+            <input type="submit" value="Calcular" />
+        </form>
+
+        <table class="table" id="table_contribuintes_ir_calculado">
+            <thead>
+                <tr>
+                    <th>NOME</th>
+                    <th>CPF</th>
+                    <th>IR</th>
+                </tr>
+            </thead>
+            <tbody id="contribuintes_ir_calculado"></tbody>
+        </table>
+    </div>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

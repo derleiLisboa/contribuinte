@@ -1,0 +1,14 @@
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\bin\Debug\netcoreapp2.1\ContribuinteApi.deps.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\bin\Debug\netcoreapp2.1\ContribuinteApi.runtimeconfig.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\bin\Debug\netcoreapp2.1\ContribuinteApi.runtimeconfig.dev.json
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\bin\Debug\netcoreapp2.1\ContribuinteApi.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\bin\Debug\netcoreapp2.1\ContribuinteApi.pdb
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.csprojAssemblyReference.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.csproj.CoreCompileInputs.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.RazorAssemblyInfo.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.RazorAssemblyInfo.cs
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.AssemblyInfoInputs.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.AssemblyInfo.cs
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.RazorTargetAssemblyInfo.cache
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.dll
+C:\Users\Derlei\Documents\Visual Studio 2017\Projects\ContribuinteApi\ContribuinteApi\obj\Debug\netcoreapp2.1\ContribuinteApi.pdb
