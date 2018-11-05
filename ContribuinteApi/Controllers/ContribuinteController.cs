@@ -34,7 +34,7 @@ namespace ContribuinteApi.Controllers {
         [HttpGet("ir_calculado/{salarioMinimo}")]
         public ActionResult<List<Contribuinte>> GetContribuintesIRCalculado(decimal salarioMinimo) {
 
-            List<Contribuinte> contribuintes = _context.Contribuintes.ToList();
+            List<Contribuinte> contribuintes = _context.Contribuintes.OrderBy(x => x.Nome).ThenBy(x => x.Ir).ToList();
 
             foreach (Contribuinte contribuinte in contribuintes) {
                 contribuinte.CalcularIR(salarioMinimo);
